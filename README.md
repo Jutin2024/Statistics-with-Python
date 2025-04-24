@@ -26,8 +26,7 @@ Whether you're working with data collection, cleaning, exploration, visualizatio
 ---
 
 ## Tools & Libraries
-
-This course uses the following Python tools and libraries:
+Following Python tools and libraries were used:
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
