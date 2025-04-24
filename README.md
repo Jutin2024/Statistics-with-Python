@@ -29,10 +29,11 @@ Whether you're working with data collection, cleaning, exploration, visualizatio
 
 This course uses the following Python tools and libraries:
 
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `scikit-learn`
-- `xgboost`
-- `scipy`
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-003366?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3E6D63?logo=seaborn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-3A76A8?logo=xgboost&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8B4F9D?logo=scipy&logoColor=white)
+
